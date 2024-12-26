@@ -1,33 +1,25 @@
 <h1 align="center">Hi 👋, I'm Himani Jaiswal</h1>
-<h3 align="center">A passionate Data Analyst from Toronto, Canada</h3>
+<h3 align="center">A passionate Data Analyst from Montreal, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanijaiswal1&label=Profile%20views&color=0e75b6&style=flat" alt="himanijaiswal1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanijaiswal1" alt="himanijaiswal1" /></a> </p>
 
-- 🔭 I’m currently working on **Inventory Management Dashboard**
-
+- 🔭 I’m currently working on **Inventory Management Dashboard** at Loblaws
 - 🌱 I’m currently learning **Advanced Data Engineering on Azure Synapse**, **AWS S3**, and **Snowflake**
-
-- 👯 I’m looking to collaborate on **Data Engineering and Analytics Projects**
-
+- 👯 I’m looking to collaborate on **Data Engineering and Analytics Projects** in the retail, insurance, and finance sectors
 - 🤝 I’m looking for help with **Machine Learning for Customer Segmentation**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://himanijaiswal59.wixsite.com/my-site-2)
-
-- 💬 Ask me about **Data Analysis, SQL, Power BI, and Tableau**
-
-- 📫 How to reach me **himanihjaiswal@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/11sLWy6bmHbAgzCR8RgxaMdUt_8Rlpe1EBU0H82sxHFE/edit)
-
-- ⚡ Fun fact **I love exploring the intersection of data science and business intelligence!**
+- 💬 Ask me about **Data Analysis, SQL, Power BI, Tableau, Azure Synapse, Snowflake, and AWS S3**
+- 📫 How to reach me: **himanihjaiswal@gmail.com**
+- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/11sLWy6bmHbAgzCR8RgxaMdUt_8Rlpe1EBU0H82sxHFE/edit)
+- ⚡ Fun fact: **I love exploring the intersection of data science and business intelligence!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/himani-jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himani-jaiswal" height="30" width="40" /></a>
-<a href="https://fb.com/himani.jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himani.jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/himani.jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himani.jaiswal" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/himani-jaiswal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himani-jaiswal" height="30" width="40" /></a>
+  <a href="https://fb.com/himani.jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himani.jaiswal" height="30" width="40" /></a>
+  <a href="https://instagram.com/himani.jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himani.jaiswal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,6 +37,18 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Key Projects:</h3>
+- **[Bellabeat Smart Device Data Analysis Project](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)**  
+  Analyzed user behavior with fitness data to provide actionable insights for improving marketing strategies.
+
+- **[US Super Store Sales Data Analysis](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)**  
+  Conducted data analysis to support business expansion strategies and market penetration.
+
+- **[Fraud Detection & Prevention](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)**  
+  Developed insights to improve fraud detection and risk management in financial transactions.
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanijaiswal1&show_icons=true&locale=en&layout=compact" alt="himanijaiswal1" /></p>
 
