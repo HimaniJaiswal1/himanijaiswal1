@@ -1,53 +1,118 @@
+<!-- Background Image -->
+<p align="center">
+  <img src="https://via.placeholder.com/1280x400/FFFFFF/000000?text=Himani+Jaiswal+Data+Analyst" alt="Background" width="100%" />
+</p>
+
+<!-- Profile Title Section -->
 <h1 align="center">Hi 👋, I'm Himani Jaiswal</h1>
-<h3 align="center">A passionate Data Analyst from Montreal, Canada</h3>
+<h3 align="center">Data Analyst | Problem Solver | Business Intelligence Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanijaiswal1&label=Profile%20views&color=0e75b6&style=flat" alt="himanijaiswal1" /> </p>
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanijaiswal1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanijaiswal1" alt="himanijaiswal1" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Inventory Management Dashboard** at Loblaws
-- 🌱 I’m currently learning **Advanced Data Engineering on Azure Synapse**, **AWS S3**, and **Snowflake**
-- 👯 I’m looking to collaborate on **Data Engineering and Analytics Projects** in the retail, insurance, and finance sectors
-- 🤝 I’m looking for help with **Machine Learning for Customer Segmentation**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://himanijaiswal59.wixsite.com/my-site-2)
-- 💬 Ask me about **Data Analysis, SQL, Power BI, Tableau, Azure Synapse, Snowflake, and AWS S3**
-- 📫 How to reach me: **himanihjaiswal@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/11sLWy6bmHbAgzCR8RgxaMdUt_8Rlpe1EBU0H82sxHFE/edit)
-- ⚡ Fun fact: **I love exploring the intersection of data science and business intelligence!**
+### About Me ✨
+- 🔭 **Current Project**: Developing an **Inventory Management Dashboard** at **Loblaws** 🛒  
+- 🌱 **Currently Learning**: **Advanced Data Engineering on Azure Synapse**, **AWS S3**, and **Snowflake** 🔍  
+- 👯 **Collaborating On**: **Data Analytics & Engineering Projects** (Retail, Finance, Insurance) 🤝  
+- 💬 **Ask Me About**: **SQL**, **Power BI**, **Tableau**, **Azure Synapse**, **Snowflake**, **Data Analysis**, and **Data Engineering** 🧠  
+- 📄 **Resume**: [Click Here to Download](https://docs.google.com/document/d/11sLWy6bmHbAgzCR8RgxaMdUt_8Rlpe1EBU0H82sxHFE/edit)  
+- 📫 **Reach Me**: **himanihjaiswal@gmail.com** 📧  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Work Experience 💼
+#### **Data Analyst**
+**Loblaws** | Nov 2022 – Present | Toronto, ON  
+- Spearheaded the creation and maintenance of **SQL databases** managing over 100M records, improving data retrieval efficiency by 20%.  
+- Automated data synchronization with APIs, reducing manual data entry efforts by 40%.  
+- Developed comprehensive dashboards in **Power BI** to support data-driven decision-making.  
+
+#### **Business Intelligence Developer**
+**Sunlife Insurance** | Nov 2020 – Oct 2022 | Toronto, ON  
+- Conducted descriptive statistics and data mining to extract actionable insights for stakeholders.  
+- Created **interactive dashboards** using Power BI and Tableau, enhancing engagement by 30%.  
+- Maintained 99.5% data accuracy through robust compliance protocols.  
+
+---
+
+### Key Projects 🚀
+Here are some impactful projects I’ve worked on. For more details, visit my [Portfolio](https://himanijaiswal59.wixsite.com/my-site-2).
+
+#### 🛒 **Inventory Management Dashboard**
+- **Objective**: Track real-time inventory levels to improve supply chain efficiency.  
+- **Tools**: Power BI, SQL, Azure Synapse, Excel  
+
+
+#### 📊 **Bellabeat Smart Device Data Analysis**
+- **Objective**: Optimize user engagement and sales by analyzing smart device user behavior data.  
+- **Tools**: Python, Pandas, Matplotlib, Power BI  
+- 🔗 [Project Overview & PDF](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)
+
+#### 🏪 **US Super Store Sales Analysis**
+- **Objective**: Provide insights into regional sales performance for inventory planning and marketing.  
+- **Tools**: Tableau, Power BI, SQL  
+- 🔗 [Project Overview & PDF](https://himanijaiswal59.wixsite.com/1998)
+
+#### 🔐 **Fraud Detection & Prevention**
+- **Objective**: Build a robust fraud detection model to prevent fraudulent transactions.  
+- **Tools**: Python, Scikit-learn, Machine Learning  
+- 🔗 [Project Overview & PDF](https://himanijaiswal59.wixsite.com/1998)
+
+---
+
+### Skills & Technologies 🛠️
+
+#### **Data Analysis & Engineering**:
 <p align="left">
-  <a href="https://linkedin.com/in/himani-jaiswal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himani-jaiswal" height="30" width="40" /></a>
-  <a href="https://fb.com/himani.jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himani.jaiswal" height="30" width="40" /></a>
-  <a href="https://instagram.com/himani.jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himani.jaiswal" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Microsoft_Excel_2013-2019_logo.svg/2048px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Microsoft_Excel_2013-2019_logo.svg/2048px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="40" height="40"/> </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/confluence.svg" alt="confluence" width="40" height="40"/> </a> 
-  <a href="https://www.scrum.org/resources/what-is-agile" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/agile.svg" alt="agile" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+#### **Cloud & Database Technologies**:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/>
 </p>
 
-<h3 align="left">Key Projects:</h3>
-- **[Bellabeat Smart Device Data Analysis Project](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)**  
-  Analyzed user behavior with fitness data to provide actionable insights for improving marketing strategies.
+#### **BI & Visualization Tools**:
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="40" height="40"/>
+</p>
 
-- **[US Super Store Sales Data Analysis](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)**  
-  Conducted data analysis to support business expansion strategies and market penetration.
+---
 
-- **[Fraud Detection & Prevention](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)**  
-  Developed insights to improve fraud detection and risk management in financial transactions.
+### GitHub Stats 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanijaiswal1&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanijaiswal1&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanijaiswal1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### Let's Connect! 🌐
+- [LinkedIn](https://linkedin.com/in/himani-jaiswal18) 💼  
+- [Portfolio](https://himanijaiswal59.wixsite.com/1998) 📂  
+- [Instagram](https://instagram.com/himani.jaiswal) 📸  
+
+---
+
+### Fun Fact 💡
+Exploring the intersection of **data science** and **business intelligence** is my passion! I enjoy discovering insights from raw data to help organizations make smarter decisions.
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanijaiswal1&show_icons=true&locale=en&layout=compact" alt="himanijaiswal1" /></p>
